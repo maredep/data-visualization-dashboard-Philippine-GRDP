@@ -6,5 +6,5 @@
 
 ### Dashboard
 
-
+![alt text](Power_BI_Data_Visualization.png)
 
