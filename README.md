@@ -6,5 +6,5 @@
 
 ### Dashboard
 
-![alt text](Dashboard.png)
+<img src="Dashboard.png" width="600">
 
